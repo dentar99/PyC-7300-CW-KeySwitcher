@@ -33,6 +33,7 @@ The code is sloppy and experimental, and is not a "professional" product.
 
 Before running this program, be sure the below statements work with
 your Python > 3.5.6 interpreter on your system:
+```
 
 import serial.tools.list_ports
 from time import sleep
@@ -42,6 +43,7 @@ import serial
 import socket
 import sys
 
+```
 After you verify that, the USB port on Linux (to which your radio is hooked) 
 may be something like /dev/ttyUSB0.
 
