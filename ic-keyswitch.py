@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 #
+# Author: Tom N4LSJ -- EXPERIMENTAL CODE ONLY FOR TINKERING
+#                   -- USE AT YOUR OWN RISK ONLY
+#                   -- AUTHOR ASSUMES NO LIABILITY
+#
 # INSTRUCTIONS:
 # 
 #    By using this program, you agree it is at your own risk
