@@ -1,4 +1,3 @@
-![PyC-7300-CW-KeySwitcher](https://user-images.githubusercontent.com/76819904/107884043-93f4c400-6ec0-11eb-955c-9ee395521dd5.png)
 
         ******* USE AT YOUR OWN RISK *******
 
@@ -6,6 +5,9 @@
 
         *******  NO SUPPORT OFFERED  *******
 
+![PyC-7300-CW-KeySwitcher](https://user-images.githubusercontent.com/76819904/107884043-93f4c400-6ec0-11eb-955c-9ee395521dd5.png)
+
+Python IC-7300 CI-V CW key switching program by N4LSJ
 
 ic-keyswitch was written solely as an educational venture during the COVID-19
 pandemic of 2020.
